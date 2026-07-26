@@ -1,8 +1,8 @@
 # CyberPunk Cyber-deck — Journal Export
 
-- Exported at: 2026-05-19T20:41:41Z
+- Exported at: 2026-07-26T12:44:38Z
 - Project ID: 2610
-- Entries: 18
+- Entries: 27
 
 ## Entry 1
 - ID: 3891
@@ -298,3 +298,145 @@ Built a model of the BadUSB that will go with the cyberdeck, using a arduino bee
 ### Recording Links
 
 - https://lookout.hackclub.com/api/media/80a10b12-7f31-4d45-9f59-a3b64bec3ed3/video.mp4
+
+## Entry 19
+- ID: 8040
+- Author: elliotgaler
+- Created At: 2026-05-19T21:14:10Z
+
+### Content
+
+fixing issues for resubmission, such as fixing the assembly diagram, adding more to the zine and readme, and updating files/adding images of wiring diagrams as well as .epro files
+![Copy of CyberDeck zine.pdf.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTc1NzcsInB1ciI6ImJsb2JfaWQifX0=--da7b6d0083f692c10b7ba8e9bd2cb6c84601d62a/Copy of CyberDeck zine.pdf.png)
+
+
+### Recording Links
+
+- https://lookout.hackclub.com/api/media/8dea9969-48ee-4478-a9c4-55bc142ce514/video.mp4
+
+## Entry 20
+- ID: 8112
+- Author: elliotgaler
+- Created At: 2026-05-20T09:00:41Z
+
+### Content
+
+fixing the BOM by adding some wires that i missed, and moving around files in the github repo so that they're up to date and easier to find
+![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTc3NDcsInB1ciI6ImJsb2JfaWQifX0=--fd2c752aa9e03381e0d26d8bce777bac6e81d309/image.png)
+
+
+### Recording Links
+
+- https://lookout.hackclub.com/api/media/a2b89a75-c2b5-438c-a3b4-0f5f19bc58b5/video.mp4
+
+## Entry 21
+- ID: 14089
+- Author: elliotgaler
+- Created At: 2026-06-14T20:39:18Z
+
+### Content
+
+Added text to word  file on what needs changing before final print, and added holes on bottom/top of case to carry wires through and also the start of a place to install the usb-c cable that goes in the back of the case
+![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzM0NzcsInB1ciI6ImJsb2JfaWQifX0=--dd65e7ba2198735a3304b3affc9772e1c3505319/image.png)
+
+
+### Recording Links
+
+- https://lookout.hackclub.com/api/media/1ee99828-ad1e-4a91-8bc2-4b05adcd22c1/video.mp4
+
+## Entry 22
+- ID: 14315
+- Author: elliotgaler
+- Created At: 2026-06-15T20:42:33Z
+
+### Content
+
+designed spaces for the back usb-c port and jr45 jack to screw into, and also designed a model of the usb-hub to make the correct holes on the lower case
+![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzQwNjEsInB1ciI6ImJsb2JfaWQifX0=--b2eb14355b0b4a2bc5982dd1a36c52909d61986b/image.png)
+![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzQwNjIsInB1ciI6ImJsb2JfaWQifX0=--4399dc07c2faca2391c88b23b0d7790834fe1b08/image.png)
+
+
+### Recording Links
+
+- https://lookout.hackclub.com/api/media/285448aa-98ec-43fd-8e7c-9cd83d9478dc/video.mp4
+
+## Entry 23
+- ID: 16116
+- Author: elliotgaler
+- Created At: 2026-06-23T21:21:56Z
+
+### Content
+
+did some final touches on the cad, such as adjustments for the fits for the parts that i now have, like fixing the display mount, and adding a box to hold the usb hub. pretty close to finishing the design :)
+![Screenshot 2026-06-23 221659.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzg4OTgsInB1ciI6ImJsb2JfaWQifX0=--a1511ba67142dd4ca312389f4accf32faf60d878/Screenshot 2026-06-23 221659.png)
+![Screenshot 2026-06-23 221647.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzg5MDAsInB1ciI6ImJsb2JfaWQifX0=--ec4776f25c1c5eb041607e45dcf02f066080ff47/Screenshot 2026-06-23 221647.png)
+
+
+### Recording Links
+
+- https://lookout.hackclub.com/api/media/268a10a0-2fee-4449-8e1d-e78f3d9074cf/video.mp4
+
+## Entry 24
+- ID: 16150
+- Author: elliotgaler
+- Created At: 2026-06-24T14:22:02Z
+
+### Content
+
+Cut out certain parts of the build to print in PLA and test fittings and sizes, such as the ethernet/usbc slots at the back and the clip that will be used to grip the cable going from the bottom of the case to the top. (points where the recording paused was when i was taking measurements from components/of test prints
+![Image.jpg](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzkwNjEsInB1ciI6ImJsb2JfaWQifX0=--a200f0aea73a73571b63ddbc1808f973bf46bbf7/Image.jpg)
+
+
+### Recording Links
+
+- https://lookout.hackclub.com/api/media/73589da5-d1a4-45e9-bb0a-77a16804d627/video.mp4
+
+## Entry 25
+- ID: 16173
+- Author: elliotgaler
+- Created At: 2026-06-24T21:11:11Z
+
+### Content
+
+Printed test models of key parts of the case, like the keyboard mount, usbhub mount, and the display mount, and made adjustments to the model based on this.
+![Image (2).jpg](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzkzMzYsInB1ciI6ImJsb2JfaWQifX0=--5953b992389c52c2480347ad79c5564b56d2b43b/Image (2).jpg)
+
+
+### Recording Links
+
+- https://lookout.hackclub.com/api/media/28e3a1a1-2cc2-4c7f-89f8-d365d531fbad/video.mp4
+- https://lookout.hackclub.com/api/media/da30b861-4d1a-432d-a982-a8d7eef728e9/video.mp4
+- https://lookout.hackclub.com/api/media/94391f39-9273-4f16-b3a8-eaa6dd1abc9d/video.mp4
+
+## Entry 26
+- ID: 16390
+- Author: elliotgaler
+- Created At: 2026-06-29T20:29:34Z
+
+### Content
+
+Started designing a carry handle for the case, to have clips for fixing the case shut attached to it later
+![Screenshot 2026-06-29 212923.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDA1MjUsInB1ciI6ImJsb2JfaWQifX0=--f95591d896a3349028a0064d69a7fb9a15a0da4c/Screenshot 2026-06-29 212923.png)
+
+
+### Recording Links
+
+- https://lookout.hackclub.com/api/media/b373e69e-2966-4e8f-837e-157c0588c929/video.mp4
+
+## Entry 27
+- ID: 16786
+- Author: elliotgaler
+- Created At: 2026-07-22T22:13:35Z
+
+### Content
+
+display test 2 - reprinted display mount and tested it again to make sure the display would fit (it did)
+Fitting holes for screws - ordered bolts+inserts from ali so making sure all the holes are the right size, but having to do each one manually so it takes forever :(
+![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDE5MTgsInB1ciI6ImJsb2JfaWQifX0=--b8e913fbdc4a72cea0777f095df1a1be288d0855/image.png)
+![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDE5MTksInB1ciI6ImJsb2JfaWQifX0=--cb2c6bfc7c45668699e7ac7c3ca4c5049973d3c1/image.png)
+
+
+### Recording Links
+
+- https://lookout.hackclub.com/api/media/b398b3a4-8498-4f79-b429-abff4e84d0b8/video.mp4
+- https://lookout.hackclub.com/api/media/5c0955a3-5948-4c3f-be8e-29bf78cce831/video.mp4
